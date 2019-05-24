@@ -2,7 +2,8 @@
   "id"   : 1,
   "name" : {
     "first" : "Yong",
-    "last" : "Mook Kim" 
+    "last" : "Mook Kim",
+    "salary" : 200,
   },
   "contact" : [
     { "type" : "phone/home", "ref" : "111-111-1234"},
